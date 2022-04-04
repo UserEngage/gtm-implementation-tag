@@ -1,5 +1,5 @@
 homepage: "https://user.com"
 documentation: "https://user.com/en/integrations/javascript"
 versions:
-  - sha: 7566505db208eb15adeeba2c83a86a0558bf0f78
-    changeNotes: Initial publish.
+  - sha: ceb346c611acd74b4f15c78bbd347f2eb128b31e
+    changeNotes: Update License
