@@ -1,4 +1,4 @@
-# Official User.com Tag
+# Official User.com Tag for Google Tag Manager
 
 #### This tag will implement User.com on your Website.
 
