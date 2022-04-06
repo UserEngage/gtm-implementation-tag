@@ -1,5 +1,5 @@
 homepage: "https://user.com"
 documentation: "https://user.com/en/integrations/javascript"
 versions:
-  - sha: fc3addbecb5f97bddaed603bf87386c1a5913167
-    changeNotes: Update configuration information
+  - sha: 393b667173267432a608e75177d49afc0704691a
+    changeNotes: Update metadata
